@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Prussia",
+    "leaderName": "Frederick the Great",
+    "adjective": [
+      "Prussian"
+    ],
+    "startBias": [
+      "Plains"
+    ],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "Originally the Margravate of Brandenburg, this land used to be a barren swamp that was used by his older lords as a money piggy for money, now after several dynasties of Hohenzollern rule Brandenburg the now Kingdom of Prussia has become a highly militaristic nation whose might will crush any nation that it comes contact with",
+    "startIntroPart2": "",
+    "declaringWar": "Its time for Prussia to expand, therefore we declare war!",
+    "attacked": "You and what coalition?, we will crush your armies for your foolishness",
+    "defeated": "The Kingdom of Prussia and his armies are no more...",
+    "introduction": "Greetings i am Frederick king of Prussia and his servant of state",
+    "neutralHello": "What is your proposal?",
+    "neutralLetsHearIt": "Lets see",
+    "neutralNo": "Sorry but there isnt any gain for the state from this",
+    "neutralYes": "Yes, that is good.",
+    "hateHello": "Guess its better than hearing Maria Theresa\"",
+    "hateLetsHearIt": "What kind of worthless trinket will you give me",
+    "hateNo": "The State must reject this worthless offer for it does not meet its interests",
+    "hateYes": "Guess its the best deal for both parties...",
+    "afterPeace": "Enough men have died in this war, its time to make peace for our nations",
+    "tradeRequest": "The State has brought you a proposal that will benefit our nations",
+    "outerColor": [
+      0,
+      49,
+      83
+    ],
+    "innerColor": [
+      0,
+      0,
+      0
+    ],
+    "uniqueName": "Militaristic State",
+    "uniques": [
+      "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+      "[+1] Movement <for [Land] units>",
+      "[+35]% Strength <when fighting units from a Civilization with more Cities than you>",
+      "[-35]% maintenance costs <for [Land] units>"
+    ],
+    "cities": [
+      "Berlin",
+      "Konigsberg",
+      "Postdam",
+      "Neumark",
+      "Breslau",
+      "Ruppin",
+      "Stettin",
+      "Danzig",
+      "Warmia",
+      "Brandenburg"
+    ]
+  }
+]

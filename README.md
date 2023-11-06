@@ -1,2 +1,2 @@
-# Kingdom-of-Prussia
-Enjoy your demigod like EU4 nation
+# Adds the Kingdom of Prussia
+Enjoy your EU4 like demigod nation
