@@ -29,6 +29,19 @@
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
 	},
+{
+		"name": "Landwehr",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Prussia",
+		"movement": 2,
+		"strength": 32,
+		"cost": 220,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["[+50]% Strength <when fighting in [Friendly Land] tiles>", "[-40]% Strength <when fighting in [Foreign Land] tiles>", "[+50]% Strength <within [3] tiles of a [City center]> <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "shot"
+	},
 	{
 		"name": "Krupp Gun",
 		"unitType": "Siege",
